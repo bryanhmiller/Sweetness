@@ -1,0 +1,11 @@
+Song UI
+
+I want it to have a single button
+	displays play
+	when play is pressed needs to display pause
+	
+When the button is slid up and down I want it to scroll the playlist
+
+Think about it some more
+
+you have two displays and four directions.
