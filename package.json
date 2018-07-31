@@ -6,6 +6,8 @@
     "react": "^16.4.1",
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.4.1",
+    "react-native-fs": "file:node_modules/react-native-fs",
+    "react-native-media-player": "file:node_modules/react-native-media-player",
     "react-scripts": "1.1.4"
   },
   "scripts": {

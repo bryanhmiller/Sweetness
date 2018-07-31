@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import MediaPlayer from "react-native-media-player";
 import logo from './heart.svg';
 import './App.css';
 import {button} from 'react-bootstrap';
